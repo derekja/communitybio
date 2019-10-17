@@ -13,4 +13,4 @@ please feel free to add yourself to that [mailing list](https://lists.uvic.ca/ma
 
 As an indication of the goals of the community bio movement, here is a graphic made by Ananda describing the shared statment of purpose arising from the Global Community Bio Summit version 2.0
 
-![alt text](statementofpurpose.png "Statement of Purpose")
+![alt text](statementofpurpose.jpg "Statement of Purpose")
