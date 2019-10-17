@@ -1,18 +1,14 @@
-## Simple site: Easy websites with GitHub pages
+## Canada Community Bio
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+This basic website has been cloned from [here](https://kbroman.org/simple_site).
 
-This is a minimal tutorial to get started.
-
-View the thing [here](https://kbroman.org/simple_site).
-
+The intention of this site is to provide a static landing page that people looking for information on Canadian Community Bio labs can be pointed. Rather than being continually updated, it is intended just as a pointer to the mailing list and other long-lived resources.
 ---
 
 To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
+[Derek Jacoby](https://github.com/derekja)
 has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
+&ldquo;[communitybio](https://github.com/derekja/communitybio)&rdquo;.
+This work is published from Canada.
 <br/>
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
